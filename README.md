@@ -2,7 +2,7 @@
 Use a Firebase Cloud Function to collect, log, and respond with the requestor's IP address and other meta info.
 
 ## Usage
-If an app requires logging a user's IP address for metrics, security logs, audit trails, etc, it can trigger this HTTP function via a GET request.
+If an app requires logging a user's IP address for metrics, security logs, audit trails, etc, it can trigger this HTTP function via a GET request.  The informtion can simply be console logged, saved to the database, or used in some other manner.
 
 ### Examples
 
